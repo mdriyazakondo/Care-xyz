@@ -1,3 +1,5 @@
+```
+
 care-xyz/
 ├── public/ # Images, Icons
 ├── src/
@@ -32,3 +34,5 @@ care-xyz/
 ├── .env.local # MONGODB_URI, NEXTAUTH_SECRET, STRIPE_KEY
 ├── tailwind.config.js
 └── package.json
+
+```
